@@ -5,7 +5,7 @@
 - [Español](#español)
 
 ## 🌐 Live Demo / Demo en Vivo:
-- [Play the game on GitHub Pages](https://DavidMoCe.github.io/AnimationCar)  
+- [Play the game on GitHub Pages](https://DavidMoCe.github.io/CarAnimation)  
 
 ---
 
@@ -17,7 +17,7 @@ This project creates an animation in which a car moves on a landscape background
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/DavidMoCe/AnimationCar.git
+   git clone https://github.com/DavidMoCe/CarAnimation.git
 
 2. **Open the `index.html` file in your browser**: Simply open the `index.html` file in any modern browser to view the animation.
 
@@ -48,7 +48,7 @@ Este proyecto crea una animación en la que un coche se mueve sobre un fondo de 
 
 1. **Clona el repositorio**:
    ```bash
-      git clone https://github.com/DavidMoCe/AnimationCar.git
+      git clone https://github.com/DavidMoCe/CarAnimation.git
 
 2. **Abre el archivo `index.html` en tu navegador**: Simplemente abre el archivo `index.html` en cualquier navegador moderno para ver la animación.
 
