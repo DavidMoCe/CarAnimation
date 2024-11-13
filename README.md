@@ -11,7 +11,7 @@
 
 ## English
 
-This project creates an animation in which a car moves on a landscape background generated with **Leonardo AI** on a web page. The animation is controlled by HTML and CSS, using **keyframes** to simulate the movement of the car and the rotation of its wheels.
+This project creates an animation in which a car moves on a landscape background generated with **Leonardo AI** on a web page. The animation is controlled by HTML and CSS, using **keyframes** to simulate the movement of the car and the rotation of its wheels. Additionally, the vh (viewport height) and vw (viewport width) units are used to make elements scale proportionally to the size of the browser window.
 
 ### 🚀 How to Run the Animation
 
@@ -42,7 +42,7 @@ Developed by **David Moreno Cerezo**.
 
 ## Español
 
-Este proyecto crea una animación en la que un coche se mueve sobre un fondo de paisaje generado con **Leonardo AI** en una página web. La animación se controla mediante HTML y CSS, utilizando **keyframes** para simular el movimiento del coche y la rotación de sus ruedas.
+Este proyecto crea una animación en la que un coche se mueve sobre un fondo de paisaje generado con **Leonardo AI** en una página web. La animación se controla mediante HTML y CSS, utilizando **keyframes** para simular el movimiento del coche y la rotación de sus ruedas. Además, se utilizan las unidades vh (viewport height) y vw (viewport width) para hacer que los elementos se ajusten proporcionalmente al tamaño de la ventana del navegador.
 
 ### 🚀 Cómo Ejecutar la Animación
 
