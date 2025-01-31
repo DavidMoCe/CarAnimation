@@ -32,7 +32,7 @@ This project creates an animation in which a car moves on a landscape background
 
 ### 📜 License
 
-This project is licensed under the **CC BY-NC 4.0** license. See the `LICENSE` file for more details.
+This project is licensed under the **CC BY-NC 4.0** license. See the [`LICENSE`](https://github.com/DavidMoCe/CarAnimation/blob/main/LICENSE.txt) file for more details.
 
 ### 🌟 Credits
 
@@ -62,7 +62,7 @@ Este proyecto crea una animación en la que un coche se mueve sobre un fondo de 
 
 ### 📜 Licencia
 
-Este proyecto está licenciado bajo la licencia **CC BY-NC 4.0**. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto está licenciado bajo la licencia **CC BY-NC 4.0**. Consulta el archivo [`LICENSE`](https://github.com/DavidMoCe/CarAnimation/blob/main/LICENSE.txt) para más detalles.
 
 ### 🌟 Créditos
 
